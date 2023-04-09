@@ -1,1 +1,1 @@
-# Find-the-first-or-last-occurrence-of-a-given-number-in-a-sorted-array
+# BinarySearch Find-the-first-or-last-occurrence-of-a-given-number-in-a-sorted-array
